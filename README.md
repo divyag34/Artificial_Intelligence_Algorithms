@@ -1,1 +1,1 @@
-# Artificial_Intelligence_Algorithms
+# Artificial Intelligence Algorithms
